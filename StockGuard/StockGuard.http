@@ -1,0 +1,6 @@
+@StockGuard_HostAddress = http://localhost:5215
+
+GET {{StockGuard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
