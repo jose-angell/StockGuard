@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="StockGuard/StockGuard.csproj" />
+  <Project Path="StockGuard.Application/StockGuard.Application.csproj" />
+  <Project Path="StockGuard.Domain/StockGuard.Domain.csproj" />
+  <Project Path="StockGuard.Infrastructure/StockGuard.Infrastructure.csproj" />
+  <Project Path="StockGuard.Test/StockGuard.Test.csproj" />
+  <Project Path="StockGuard/StockGuard.Api.csproj" />
 </Solution>
